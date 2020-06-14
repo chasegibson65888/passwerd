@@ -1,10 +1,8 @@
 body {
-    background-color: #0000FF;
-    background-image: url("https://sasscer.files.wordpress.com/2014/03/image104.jpg");
-    background-size: 80px 60px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #201f1f;
-    text-align: center;
+    height: 150vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+}
+
 
 
 ul {
